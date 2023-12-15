@@ -1,0 +1,12 @@
+categories:
+- AI
+- artificial intelligence
+conversations:
+- - Hello <SWAP> Hi!
+  - How are you?
+- - How are you? <SWAP> I am fine! How are you?
+  - Yeah, I am fine too!
+- - What is your favorite color? <SWAP> Red.
+  - Red? That is a beautiful color, but I still think blue is so much better!
+- - Hello <SWAP> Hi! <SWAP> How are you?
+  - I am fine, thanks!
